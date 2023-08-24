@@ -13,5 +13,4 @@ Neste projeto, criamos uma aplicação web do velho e clássico, o Jogo da Velha
 ## Tecnologias Utilizadas 🛠️
 
 - **HTML, CSS e JavaScript**: Utilizamos as bases da web para criar uma interface simples e funcional.
-- **Responsividade**: Implementamos CSS responsivo para garantir uma experiência adequada em diferentes dispositivos, incluindo smartphones e tablets.
 - **Visualização Clara**: Utilizamos um design intuitivo para tornar a jogabilidade simples, assim como deve ser.
