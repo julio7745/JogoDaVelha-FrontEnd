@@ -1,7 +1,4 @@
-# -FrontEnd
- O velho e clássico, Jogo da Velha! #
-
- # Jogo da Velha - FrontEnd ⭕❌
+# Jogo da Velha - FrontEnd ⭕❌
 
 ### [Link para o projeto funcionando 🔗✍️](https://julio7745.github.io/JogoDaVelha-FrontEnd/)
 
