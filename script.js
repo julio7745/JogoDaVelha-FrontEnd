@@ -44,24 +44,16 @@ async function jogadorJogou(btn) {
                 alguemGanhou()
     
             }else if (jogadas === 9){
-    
                 deuVelha()
-    
             }
     
             function alguemGanhou() {
-                
+        
                 mensagemDeVitoria()
                 iniciaJogo()
     
-                function mensagemDeVitoria(){
-                    
-                    window.alert(`
-                                ----------------# WINNER :) #-----------
-                                               O jogador ${jogador} venceu!
-                                -------------------------------------------
-                    `);
-        
+               function mensagemDeVitoria(){
+                    window.alert(` WINNER :) \n O jogador ${jogador} venceu!`);
                 }
             }
     
@@ -71,17 +63,10 @@ async function jogadorJogou(btn) {
                 iniciaJogo()
     
                 function mensagemDeVelha(){
-                    
-                    window.alert(`
-                                ----------------# VELHA :( #-----------
-                                       Infelizmente o jogo deu velha!
-                                -------------------------------------------
-                    `);
-    
+                    window.alert(` Velha :( \n Infelizmente o jogo deu velha!`); 
                 }
             }
         }
-
     }
 }
 
